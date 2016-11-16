@@ -1,6 +1,3 @@
-document.getElementById('img1').ondragstart = function() {
-	return false;
-};
 document.getElementById('img2').ondragstart = function() {
 	return false;
 };
