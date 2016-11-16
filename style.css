@@ -2,14 +2,14 @@
 /* ------------- General ------------- */
 @import url(https://fonts.googleapis.com/css?family=PT+Sans&subset=latin,latin-ext);
 
-.csslider1 {
-  display: inline-block;
-  position: relative;
-  max-width: 960px;
-  
-  
 
-  width: 100%;
+.csslider1 {
+  position: relative;
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  vertical-align: center;
+  margin-top: 20%;
 }
 .csslider1,
 .csslider1 *,
