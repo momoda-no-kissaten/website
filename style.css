@@ -2,7 +2,10 @@
 /* ------------- General ------------- */
 @import url(https://fonts.googleapis.com/css?family=PT+Sans&subset=latin,latin-ext);
 
-
+body {
+  background-image: url("http://media.tumblr.com/tumblr_m8rqaictxV1rst2pu.jpg");
+  background-repeat: repeat;
+}
 .csslider1 {
 	position: relative;
 	width: 50%;
