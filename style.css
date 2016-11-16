@@ -6,13 +6,20 @@ body {
   background-image: url("http://media.tumblr.com/tumblr_m8rqaictxV1rst2pu.jpg");
   background-repeat: repeat;
 }
+.slider-container {
+  margin-top: 15%;
+  background-image: url("http://rs891.pbsrc.com/albums/ac111/AaronKellyIdol/0agray.gif~c200");
+  background-repeat: repeat;
+  /*border-style: double;
+  border-color: rgb(240, 240, 240);
+  border-width: 6px;*/
+}
 img {
   height: 100%;
   width: 15%;
-  background: rgb(211,211,211);
-  border-style: double;
-  border-color: rgb(240, 240, 240);
-  border-width: 6px;
+  //background: rgb(211,211,211);
+
+
 }
 .csslider1 {
 	position: relative;
@@ -794,7 +801,7 @@ img {
 	z-index: 3;
 	text-shadow: 0 1px 0 #34495E;
 	max-width: 60%;
-	color: #34495E;
+	color: #D3D3D3;
 
 	bottom: 30px;
 	top: auto;
